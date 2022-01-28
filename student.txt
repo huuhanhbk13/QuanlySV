@@ -1,0 +1,3 @@
+diem trung binh cua: namgioi tinh: namla: 7.66667
+diem trung binh cua: thanhgioi tinh: namla: 7.33333
+diem trung binh cua: thugioi tinh: nula: 7.66667
